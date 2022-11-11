@@ -1,0 +1,58 @@
+<html>
+<head>
+<title> CLINICA WORLD ANIMALS  </title>
+</head>
+<body background="24.jpg">
+ <center><H1> SALVANDO VIDAS </H1>
+ </center>
+<center>
+
+<TABLE>
+<TR>
+<TH><A HREF="index.html"><img src="14.jpg" height = "160" width ="160" /></A></TH>
+<TH><A HREF="cuidados.html"><img src="17.jpg" height = "160" width ="160" /></A></TH>
+<TH><A HREF="somos.html"><img src="20.jpg" height = "160" width ="160" /></A></TH>
+</TR>
+</TABLE>
+
+<P><H3><font color="blue">¿QUIENES SOMOS?</FONT></H3></P>
+
+<P><H2>La mejor clinica veterianria Especializada en chiapas enfocada a brindar servicios
+médicos y quirúrgicos aplicando las técnicas más actuales y equipo de vanguardia para diagnósticos precisos 
+y tratamientos oportunos.Con más de 20 años de experiencia nuestro servicio destaca por el trato profesional 
+y cordial con el que nuestros pacientes son atendidos. Nuestro staff médico está conformado
+por médicos veterinarios zootecnistas certificados y profesionales que se actualizan día a día en las diversas técnicas 
+y tratamientos para el cuidado de su mascota, para proporcionarle a cada paciente la atención clínica veterinaria que se merecen.
+Los médicos veterinarios multidisciplinarios suman sus esfuerzos para dar a nuestros pacientes un trato afectuoso 
+y una atención médica de la más alta calidad las 24 horas del día.</P></H2>
+
+
+<P><H3><font color="blue">Misión</H3></FONT></P>
+<P><H2>Brindar un trato de calidad médica,  logrando la satisfacción de nuestros clientes,
+ por medio de una atención personalizada y tecnología de vanguardia, considerando a las mascota
+ parte importante de las familias actuales de nuestro país, generando además un sentido de responsabilidad y cuidando de ellas.</H2></P>
+
+<P><H3><font color="blue">Visión</H3></FONT></P>
+<P><H2>Seguir siendo una excelente opción en Chiapas, como proveedor de servicios médicos, quirúrgicos y de diagnóstico para:
+ perros, gatos, y mascotas no tradicionales, tanto para los propietarios como para otros médicos veterinarios. 
+Promover el crecimiento personal y profesional de los integrantes de la organización contribuyendo 
+al desarrollo de la Medicina Veterinaria en nuestro país.</H2></P>
+
+<P><H3><H3><font color="blue">Medicos Veterinarios</P></FONT></H3>
+
+<P><H2> PALACIOS LOPEZ ERIK LEONARDO </H2></P>
+<P><H2> HUET GONZALES CARLOS HUMBERTO </H2></P>
+<P><H2> ALVAREZ SALAZAR CARLOS ALBERTO </H2></P>
+<P><H2> PEÑA ZEPEDA ABNER ASAEL </H2></P>
+
+<img src="26.jpg" height = "300" width ="400" /><BR><BR>
+<img src="27.jpg" height = "300" width ="400" /><BR><BR>
+<img src="28.jpg" height = "300" width ="400" /><BR><BR>
+<img src="29.jpg" height = "300" width ="400" /><BR><BR>
+<img src="30.jpg" height = "300" width ="400" /><BR><BR>
+
+</center>
+
+
+</body>
+</html>
